@@ -1,0 +1,27 @@
+body {
+	font-size: 16px;
+	color: #10456a;
+	background-color: #fdfbf7;
+	font-family: 'SF Pro', sans-serif;
+}
+
+#header-nav {
+	background-color: #f0e5d6;
+	border-radius: 0;
+	border: 0;
+}
+
+#logo-img {
+	background: url('../img/Nest.png') no-repeat;
+	width: 150px;
+	height: 55px;
+	margin: 10px 15px 10px 10px;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 {
+	font-family: 'Bebas Neue', sans-serif;
+}
